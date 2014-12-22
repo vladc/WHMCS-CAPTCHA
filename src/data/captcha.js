@@ -36,5 +36,6 @@ var els = document.getElementsByTagName('img');
 for (var i = 0; i < els.length; i++) {
 	if(els[i].getAttribute('src') == "includes/verifyimage.php") {
 		processImage(els[i]);
+		break;
 	}
 }
