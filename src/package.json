@@ -1,0 +1,9 @@
+{
+  "name": "whmcs_captcha",
+  "title": "WHMCS Captcha",
+  "id": "jid1-tGWWwbpkSte170",
+  "description": "automatically fill WHMCS's Captcha",
+  "author": "vladc",
+  "license": "wtfpl",
+  "version": "0.1"
+}
