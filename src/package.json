@@ -5,5 +5,5 @@
   "description": "automatically fill WHMCS's Captcha",
   "author": "vladc",
   "license": "wtfpl",
-  "version": "0.1"
+  "version": "0.2"
 }
